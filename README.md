@@ -54,7 +54,7 @@ Provavelmente o elemento mais importante para a criação do seu personagem, é 
 
 Há 13 clãs à disposição; Também existem algumas linhagens menores, mas elas não tem o mesmo efeito dramático no mundo das trevas
 
-    Se quiser você pode escolher ser um vampiro sem clã especifico. Esses vampiros sao chamados de "Caitiff", eles são considerados foragidos e são extremamente raros entre os cainitas, mas por possuirem o sangue mais diluído que os outros são desprezados e odiados por todos
+>Se quiser você pode escolher ser um vampiro sem clã especifico. Esses vampiros sao chamados de "Caitiff", eles são considerados foragidos e são extremamente raros entre os cainitas, mas por possuirem o sangue mais diluído que os outros são desprezados e odiados por todos
 
 ---
 
