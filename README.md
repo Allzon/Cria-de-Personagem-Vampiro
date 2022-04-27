@@ -54,7 +54,24 @@ Provavelmente o elemento mais importante para a criação do seu personagem, é 
 
 Há 13 clãs à disposição; Também existem algumas linhagens menores, mas elas não tem o mesmo efeito dramático no mundo das trevas
 
->Se quiser você pode escolher ser um vampiro sem clã especifico. Esses vampiros sao chamados de "Caitiff", eles são considerados foragidos e são extremamente raros entre os cainitas, mas por possuirem o sangue mais diluído que os outros são desprezados e odiados por todos
+> Se quiser você pode escolher ser um vampiro sem clã especifico. Esses vampiros sao chamados de "Caitiff", eles são considerados foragidos e são extremamente raros entre os cainitas, mas por possuirem o sangue mais diluído que os outros são desprezados e odiados por todos
+
+| "Clãs"                   |                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------ |
+| [Assamitas]()            | ferreiro, alfaiate/costureira, escultor, armeiro                                                 |
+| [Brujah]()               | pintor, músico, tecelão, mestre-de-armas                                                         |
+| [Capadócios]()           | criado, fazendeiro. pastor, cavalariço, garota de taberna, servo                                 |
+| [Gangrel]()              | escudeiro, cavaleiro errante, cortesão, cavaleiro pobre                                          |
+| [Lasombra]()             | monge, sacerdote, bispo, freira, leigo, criado, estudante,místico                                |
+| [Malkavianos]()          | refugiado, judeu, mouro, estrangeiro, celta, nobre deserdado, escravo                            |
+| [Nosferatu]()            | vagabundo. ladrão, bardo.exilado, vivandeira                                                     |
+| [Ravnos]()               | escudante. escrivão. médico, alquimista, sábio, teólogo                                          |
+| [Os Seguidores de Set]() | bárbaro, oriental, viajante, muçulmano, espião, escravo, nômade                                  |
+| [Toreador]()             | pagão, cristão não ortodoxo, infermalista, bruxa, ocultista, feiticeiro                          |
+| [Tremere]()              | fugido, criança. aprendiz, herdeiro, escudeiro, moleque                                          |
+| [Tzimisce]()             | caçador, patrulheiro, senescal, bardo, xerife, torturador, dama de companhia, mordomo, diplomata |
+| [Ventrue]()              | aleijado, escravo fugitivo, devedor, delinquente mutilado, veterano                              |
+| [Caitiff]()              | bardo, estalajadeiro, vendedor ambulante, treinador de animais                                   |
 
 ---
 
