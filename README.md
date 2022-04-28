@@ -123,7 +123,7 @@ Por sua vez o arquétipo escolhido para o **comportamento** é como seu personag
 
     Tirano: A única maneira de fazer as coisas é fazê-las da sua maneira! Todas os outros caminhos são tolice.
 
-> Para descrições mais precisas consultar pagina 109
+> Para descrições mais precisas consultar pagina 109 do livro base
 
 ---
 
