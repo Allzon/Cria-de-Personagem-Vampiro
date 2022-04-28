@@ -6,7 +6,7 @@
   - [Conceito](#conceito)
   - [Clã](#clã)
   - [Natureza e Comportamento](#natureza-e-comportamento)
-  - [Caminho](#caminho)
+  - [Caminhos](#caminho)
 - [Segundo Passo: Escolher Atributos]()
 
 ## Conceito do personagem
@@ -121,8 +121,31 @@ Por sua vez o arquétipo escolhido para o **comportamento** é como seu personag
 
     Tirano: A única maneira de fazer as coisas é fazê-las da sua maneira! Todas os outros caminhos são tolice.
 
-> Para descrições mais precisas consultar pagina 109 do livro base
+> Para descrições mais precisas consultar pagina 109
 
 ---
 
-### Caminho
+### Caminhos
+
+O caminho é uma filosofia/código moral a ser seguido pelo cainita, ela se baseia naquilo que seu personagem acredita ser a moralidade. Cada caminho determina a ética que você deve seguir para não ser consumido pela Besta.
+
+> Ele também determina com que Virtudes você começa.
+
+Lembre-se que o caminho do seu personagem irá influenciar praticamente todos os aspectos da sua existência vampírica; Existem alguns caminhos que se aproximam muito da moralidade humana da época, enquanto outros pregam valores precisamente desumanos como se fossem sagrados.
+
+Leve em consideração seu clã, natureza e o comportamento do seu personagem.
+
+**Caminhos**
+
+- Caminho da Besta: Alimente a Besta, deste modo ela não quebrará suas correntes.
+- Caminho do Cavaleiro: Trate os iguais com honra e os melhores com respeito.
+- Caminho do Diabo: Ao sermos criados já somos malignos e devemos cumprir nosso papel.
+- Caminho da Humanidade: A luta para manter a humanidade.
+- Caminho do Paradoxo: A existência é uma mentira; mude a realidade para melhor.
+- Caminho do Paraíso: Deus nos fez vampiros para exteriorizar sua ira.
+- Caminho do Sangue: O sangue vampírico concede o poder para a vingança.
+- Caminho do Tifon: O pecado e a corrupção são a chave da compreensão
+
+> Veja pagina 113 para mais detalhes
+
+---
