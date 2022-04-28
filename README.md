@@ -101,15 +101,13 @@ Por sua vez o arquétipo escolhido para o **comportamento** é como seu personag
 
     Galante: A elegância é tudo que importa; o romance é seu ideal, e a vontade de Deus (ou do Diabo) o seu prazer.
 
-    Inovador: Sempre há uma maneira melhor de se fazer algo.
-    Sua tarefa é criá-la.
+    Inovador: Sempre há uma maneira melhor de se fazer algo. Sua tarefa é criá-la.
 
     Juiz: Você procura a justiça para todos.
 
     Malandro: Para o inferno com as regras, para o inferno com todo mundo! A vida (ou a vida após a morte) é sua para ser desfrutada.
 
-    Monstro: Deus exigiu que você representasse a besta; quem
-    é você para discutir?
+    Monstro: Deus exigiu que você representasse a besta; quem é você para discutir?
 
     Penitente: Seus pecados só podem ser perdoados depois que você demonstrar seu verdadeiro valor.
 
